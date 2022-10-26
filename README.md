@@ -57,6 +57,6 @@ Afonso Mateus<br/>
 <img src="https://img.shields.io/static/v1?label=Gmail&labelColor=db4a39&message=afonsomateus.dev@gmail.com&color=db4a39&style=flat"/>
 
 # Licença
-Este projeto está sob a licença [MIT](https://github.com/afonsomateus21/ignews/LICENSE)
+Este projeto está sob a licença [MIT](https://github.com/afonsomateus21/ignews/blob/main/LICENSE)
 
 Feito com ❤️ por Afonso Mateus 👋 [Entre em contato!](https://www.linkedin.com/in/afonso-mateus-3a8522118/)

@@ -52,8 +52,6 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 - [Prismic](https://prismic.io/)
 
 # Autor
-### Afonso Mateus de Oliveira Souza
-### Email: afonsomateus.dev@gmail.com
-### [Linkedin](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
+Afonso Mateus [Linkedin](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
 
 

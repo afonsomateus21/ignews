@@ -52,7 +52,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 - [Prismic](https://prismic.io/)
 
 # Autor
-![](./screenshots/github/assets/print-home.png)
+![](./screenshots/github/assets/perfil.png)
 ### Afonso Mateus
 Email: afonsomateus.dev@gmail.com
 [Linkedin](https://www.linkedin.com/in/afonso-mateus-3a8522118/)

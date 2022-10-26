@@ -53,5 +53,5 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 # Autor
 Afonso Mateus 
-[![Badge](https://img.shields.io/badge/Linkedin-blue-%0a66c2&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
+[![Badge](https://img.shields.io/badge/Linkedin-blue-%0a66c2&style=for-the-badge)](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
 

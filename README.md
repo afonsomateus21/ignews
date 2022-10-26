@@ -52,6 +52,11 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 - [Prismic](https://prismic.io/)
 
 # Autor
-Afonso Mateus 
-[![Badge](https://img.shields.io/badge/Linkedin-blue-%0a66c2&style=for-the-badge)](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
+Afonso Mateus<br/>
+<a href="https://www.linkedin.com/in/afonso-mateus-3a8522118/"><img src="https://img.shields.io/static/v1?label=Linkedin&labelColor=0a66c2&message=Afonso&color=0a66c2&style=flat"/></a>
+<img src="https://img.shields.io/static/v1?label=Gmail&labelColor=db4a39&message=afonsomateus.dev@gmail.com&color=db4a39&style=flat"/>
 
+# Licença
+Este projeto está sob a licença [MIT](https://github.com/afonsomateus21/ignews/LICENSE)
+
+Feito com ❤️ por Afonso Mateus 👋 [Entre em contato!](https://www.linkedin.com/in/afonso-mateus-3a8522118/)
